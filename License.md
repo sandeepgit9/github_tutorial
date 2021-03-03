@@ -1,2 +1,2 @@
 My parts of this web site is licensed under
-[CC BY](https://creativecommons.org/licenses/by/3.0/).
+[CC BY](//creativecommons.org/licenses/by/3.0/).
